@@ -1,0 +1,9 @@
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojAssemblyReference.cache
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Form1.resources
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.cache
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\tasos\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
